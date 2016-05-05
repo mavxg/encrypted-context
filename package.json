@@ -1,0 +1,26 @@
+{
+  "name": "encrypted-context",
+  "version": "1.0.0",
+  "description": "Sharejs context wrapper for encrypted ot-sexpr sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavxg/encrypted-context.git"
+  },
+  "keywords": [
+    "Encryption",
+    "PGP",
+    "GPG",
+    "sexpr",
+    "sharejs"
+  ],
+  "author": "Benjamin Thomas Norrington",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mavxg/encrypted-context/issues"
+  },
+  "homepage": "https://github.com/mavxg/encrypted-context#readme"
+}
